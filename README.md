@@ -1,1 +1,1 @@
-# TodoApp
+# A RESTful API using Spring Boot for a Todo application with CRUD functionality. The API allows users to add tasks,retrieve all tasks,retrieve tasks by ID, and delete tasks. All task data is stored in a MySQL database, ensuring data persistence and scalability. The application provides a seamless user experience for managing tasks effectively.
